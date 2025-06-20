@@ -24,12 +24,10 @@ npm start
 ## To dos 
 A few improvements need to be made, listed in order of priority.
 - mobile styling
-- admin section - propre credentials
+- admin section - proper authentication
 - utilize Next.js' features for performance optimization
 - fix issue with Image component from next.js and hydration issue
-- setup proper backend API
 - write tests
-
 
 ## Screenshots
 <img src="./public/images/about.png" width="500"> <br />
