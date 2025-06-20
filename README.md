@@ -3,8 +3,9 @@
 ## Installation
 ```bash
 git clone https://github.com/Laphatradap/lp_portfolio.git
+cd lp_portfolio
 npm install
-npm start
+npm run dev
 ```
 ## Technologies used
 - Next.js
