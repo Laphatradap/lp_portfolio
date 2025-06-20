@@ -4,6 +4,7 @@
 ```bash
 git clone https://github.com/Laphatradap/lp_portfolio.git
 cd lp_portfolio
+touch .env
 npm install
 npm run dev
 ```
